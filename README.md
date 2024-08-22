@@ -1,2 +1,19 @@
-# Be-My-Valentine
- "Will you be my valentine?" This interactive experience blends charming graphics with a courageous spirit, inviting users to choose "yes" or "no" in a playful, yet heartfelt digital proposal.
+# ❤️ Be-My-Valentine
+
+
+### Overview
+Welcome to **Be-My-Valentine**—a fun, quirky website designed to ask the timeless question: "Will you be my valentine?" Featuring custom graphics and a charming vibe, this site is sure to make hearts flutter.
+
+---
+
+### Features
+- **Interactive Choices**: Say "yes" or "no" with a click—each option leads to a unique, heartwarming (or heartbreakingly funny) response page.
+- **Custom Animations**: Lovingly crafted animations bring the page to life, including a smiling character with animated hair and a cheeky grin.
+- **Romantic Charm**: A perfect blend of love and playfulness, designed for those who want to make a memorable romantic gesture.
+
+---
+
+### How to Use
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/BeMyValentine.git
