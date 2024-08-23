@@ -9,7 +9,6 @@ Welcome to **Be-My-Valentine**—a fun, quirky website designed to ask the timel
 ### Features
 - **Interactive Choices**: Say "yes" or "no" with a click—each option leads to a unique, heartwarming (or heartbreakingly funny) response page.
 - **Custom Animations**: Lovingly crafted animations bring the page to life, including a smiling character with animated hair and a cheeky grin.
-- **Valiant Romance**: A perfect blend of courage and love, designed for those who want to make a bold romantic gesture.
 
 ---
 
